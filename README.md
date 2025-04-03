@@ -11,16 +11,16 @@ I'm choosing this project because I’ve always liked videogames, and I’m exci
 
 ###  March 29 (10%)
 
-- [ ] A user can view the project README with a description and plan
-- [ ] A user can see a rough homepage that links to the game
-- [ ] A user can read about the planned gameplay
+- [x] A user can view the project README with a description and plan
+- [x] A user can see a rough homepage that links to the game
+- [x] A user can read about the planned gameplay
 
 
 ###  April 02 (30%)
 
-- [ ] A user can create or join a game lobby
-- [ ] A user can view their own player and opponent information
-- [ ] A user can see a 2D arena grid in the browser
+- [x] A user can create or join a game lobby
+- [x] A user can view their own player and opponent information
+- [x] A user can see a 2D arena grid in the browser
 
 ###  April 05 (40%)
 
