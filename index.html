@@ -2,31 +2,40 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog Battle - Home</title>
+    <title>Simple 2D Game Lobby</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
     <header>
-        <h1>Blog Battle</h1>
+        <h1>2D Arena Game</h1>
+        <p>Create or join a lobby and play!</p>
     </header>
 
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="game.html">Game</a>
-        <a href="#gameplay">Gameplay Info</a>
-    </nav>
-
     <main>
-        <section>
-            <h2>Welcome</h2>
-            <a href="game.html" class="button">Play the Game</a>
+        <section id="lobby">
+            <h2>Create or Join Lobby</h2>
+            <input id="playerName" placeholder="Your name">
+            <input id="lobbyCode" placeholder="Lobby code">
+            <button onclick="createLobbyClicked()">Create Lobby</button>
+            <button onclick="joinLobbyClicked()">Join Lobby</button>
         </section>
 
-        <section id="gameplay">
-            <h2>Planned Gameplay</h2>
-            <p>The game will be a casual side-scrolling challenge where users can collect tokens. Each token could represent a point earned through blog activity. As you write or comment more, your game experience grows.</p>
+        <section id="playerInfo" class="hidden">
+            <h2>Player Info</h2>
+            <p><strong>You:</strong> <span id="playerDisplay"></span></p>
+            <p><strong>Opponent:</strong> <span id="opponentDisplay">Waiting...</span></p>
+        </section>
+
+        <section id="arena" class="hidden">
+            <h2>2D Arena</h2>
+            <div id="grid"></div>
         </section>
     </main>
+
+    <script src="service.js"></script>
+    <script src="ui.js"></script>
+    <script src="game.js"></script>
+
 </body>
 </html>
