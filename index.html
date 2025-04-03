@@ -16,7 +16,7 @@
         <section id="lobby">
             <h2>Create or Join Lobby</h2>
             <input id="playerName" placeholder="Your name">
-            <input id="lobbyCode" placeholder="Lobby code">
+            <input id="lobbyCode" placeholder="Lobby code" oninput="this.value = this.value.replace(/[^0-9]/g, '')">
             <button onclick="createLobbyClicked()">Create Lobby</button>
             <button onclick="joinLobbyClicked()">Join Lobby</button>
         </section>
