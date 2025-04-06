@@ -1,19 +1,29 @@
-function showGameUI() {
-    document.getElementById("lobby").classList.add("hidden");
-    document.getElementById("playerInfo").classList.remove("hidden");
-    document.getElementById("arena").classList.remove("hidden");
-}
-
-function updatePlayerDisplay(player, opponent) {
-    document.getElementById("playerDisplay").textContent = player;
-    document.getElementById("opponentDisplay").textContent = opponent || "Waiting...";
-}
-
-function drawGrid(size = 100) {
+function drawGrid() {
     const grid = document.getElementById("grid");
     grid.innerHTML = "";
-    for (let i = 0; i < size; i++) {
-        const cell = document.createElement("div");
-        grid.appendChild(cell);
+  
+    const currentPlayer = gameState.currentTurn;
+    const currentPosition = gameState.positions[currentPlayer];
+    const availableMoves = getAvailableMoves(currentPosition);
+  
+    for (let i = 0; i < 100; i++) {
+      const cell = document.createElement("div");
+  
+      if (i === gameState.positions[1]) {
+        cell.classList.add("player1");
+      }
+      if (i === gameState.positions[2]) {
+        cell.classList.add("player2");
+      }
+  
+      if (i !== currentPosition && availableMoves.includes(i)) {
+        cell.classList.add("move-option");
+        cell.onclick = () => movePlayer(currentPlayer, i); 
+      }
+  
+      grid.appendChild(cell);
     }
-}
+  
+    document.getElementById("turnDisplay").textContent = `Turn: Player ${currentPlayer}`;
+  }
+  

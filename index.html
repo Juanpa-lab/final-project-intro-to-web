@@ -1,41 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Simple 2D Game Lobby</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <title>2D Grid Game</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
-    <header>
-        <h1>2D Arena Game</h1>
-        <p>Create or join a lobby and play</p>
-    </header>
+  <header>
+    <h1>2D Arena Game</h1>
+    <p>Create or join a lobby and play!</p>
+  </header>
 
-    <main>
-        <section id="lobby">
-            <h2>Create or Join Lobby</h2>
-            <input id="playerName" placeholder="Your name">
-            <input id="lobbyCode" placeholder="Lobby code" oninput="this.value = this.value.replace(/[^0-9]/g, '')">
-            <button onclick="createLobbyClicked()">Create Lobby</button>
-            <button onclick="joinLobbyClicked()">Join Lobby</button>
-        </section>
+  <main>
+    <section id="lobby">
+      <h2>Create or Join Lobby</h2>
+      <input id="playerName" placeholder="Your name" />
+      <input id="lobbyCode" placeholder="Lobby code" oninput="this.value = this.value.replace(/[^0-9]/g, '')" />
+      <button onclick="createLobbyClicked()">Create Lobby</button>
+      <button onclick="joinLobbyClicked()">Join Lobby</button>
+    </section>
 
-        <section id="playerInfo" class="hidden">
-            <h2>Player Info</h2>
-            <p><strong>You:</strong> <span id="playerDisplay"></span></p>
-            <p><strong>Opponent:</strong> <span id="opponentDisplay">Waiting...</span></p>
-        </section>
+    <section id="playerInfo" class="hidden">
+      <h2>Player Info</h2>
+      <p><strong>You:</strong> <span id="playerDisplay"></span></p>
+      <p><strong>Opponent:</strong> <span id="opponentDisplay">Waiting...</span></p>
+    </section>
 
-        <section id="arena" class="hidden">
-            <h2>2D Arena</h2>
-            <div id="grid"></div>
-        </section>
-    </main>
+    <section id="arena" class="hidden">
+      <h2>Arena</h2>
+      <p id="turnDisplay">Turn: Player 1</p>
+      <button id="endTurnBtn" onclick="endTurn()">End Turn</button>
+      <div id="grid"></div>
+    </section>
+  </main>
 
-    <script src="service.js"></script>
-    <script src="ui.js"></script>
-    <script src="game.js"></script>
+  <script src="service.js"></script>
+  <script src="ui.js"></script>
+  <script src="game.js"></script>
 
 </body>
 </html>
