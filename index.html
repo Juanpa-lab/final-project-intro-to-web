@@ -2,39 +2,51 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>2D Grid Game</title>
+  <title>2D Arena Game</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
   <header>
     <h1>2D Arena Game</h1>
-    <p>Create or join a lobby and play!</p>
+    <p>Create or join a lobby and take turns moving, attacking, or defending!</p>
   </header>
 
   <main>
+    <!-- Lobby Join/Create -->
     <section id="lobby">
       <h2>Create or Join Lobby</h2>
       <input id="playerName" placeholder="Your name" />
-      <input id="lobbyCode" placeholder="Lobby code" oninput="this.value = this.value.replace(/[^0-9]/g, '')" />
+      <input
+        id="lobbyCode"
+        placeholder="Lobby code"
+        oninput="this.value = this.value.replace(/[^0-9]/g, '')"
+      />
       <button onclick="createLobbyClicked()">Create Lobby</button>
       <button onclick="joinLobbyClicked()">Join Lobby</button>
     </section>
 
+    <!-- Player Info -->
     <section id="playerInfo" class="hidden">
       <h2>Player Info</h2>
       <p><strong>You:</strong> <span id="playerDisplay"></span></p>
       <p><strong>Opponent:</strong> <span id="opponentDisplay">Waiting...</span></p>
     </section>
 
+    <!-- Arena Grid -->
     <section id="arena" class="hidden">
-      <h2>Arena</h2>
-      <p id="turnDisplay">Turn: Player 1</p>
-      <button id="endTurnBtn" onclick="endTurn()">End Turn</button>
+      <h2>2D Arena</h2>
       <div id="grid"></div>
+    </section>
+
+    <!-- Turn and Defend Action -->
+    <section id="turnBox" class="hidden">
+      <h2 id="turnDisplay">Whose Turn?</h2>
+      <!-- Defend button and action log will be added dynamically in JS -->
     </section>
   </main>
 
+  <!-- JS Scripts -->
   <script src="service.js"></script>
   <script src="ui.js"></script>
   <script src="game.js"></script>

@@ -1,45 +1,66 @@
 let lobby = {
-    code: "",
-    players: []
-  };
-  
-  let gameState = {
-    currentTurn: 1,
-    positions: {
-      1: 0,  // Player 1 starts at cell 0
-      2: 99  // Player 2 starts at cell 99
-    }
-  };
-  
-  function createLobby(name, code) {
-    lobby.code = code;
-    lobby.players = [name];
-    localStorage.setItem("lobby", JSON.stringify(lobby));
+  code: "",
+  players: [],
+  currentPlayer: "",
+  version: 0,
+  hasMoved: false,
+  playerPositions: {
+      Player1: 0,
+      Player2: 99
+  },
+  playerHealth: {
+      Player1: 100,
+      Player2: 100
+  },
+  playerDefending: {
+      Player1: false,
+      Player2: false
+  },
+  lastAction: ""
+};
+
+function saveLobbyToStorage() {
+  lobby.version = (lobby.version || 0) + 1;
+  localStorage.setItem("lobby", JSON.stringify(lobby));
+}
+
+function loadLobbyFromStorage() {
+  const stored = localStorage.getItem("lobby");
+  if (stored) {
+      lobby = JSON.parse(stored);
   }
-  
-  function joinLobby(name, code) {
-    const stored = localStorage.getItem("lobby");
-    if (stored) lobby = JSON.parse(stored);
-  
-    if (lobby.code === code) {
+}
+
+function createLobby(name, code) {
+  lobby.code = code;
+  lobby.players = [name];
+  lobby.currentPlayer = "Player1";
+  lobby.hasMoved = false;
+  lobby.playerPositions = { Player1: 0, Player2: 99 };
+  lobby.playerHealth = { Player1: 100, Player2: 100 };
+  lobby.playerDefending = { Player1: false, Player2: false };
+  lobby.lastAction = "";
+  lobby.version = 1;
+  saveLobbyToStorage();
+  return "Player1";
+}
+
+function joinLobby(name, code) {
+  loadLobbyFromStorage();
+
+  if (lobby.code === code) {
       if (!lobby.players.includes(name) && lobby.players.length < 2) {
-        lobby.players.push(name);
-        localStorage.setItem("lobby", JSON.stringify(lobby));
+          lobby.players.push(name);
+          saveLobbyToStorage();
       }
-    } else {
-      createLobby(name, code);
-    }
+  } else {
+      return createLobby(name, code); // this returns "Player1"
   }
-  
-  function getOpponent(currentPlayer) {
-    return lobby.players.find(p => p !== currentPlayer);
-  }
-  
-  function getAvailableMoves(position) {
-    const moves = [];
-    if (position % 10 > 0) moves.push(position - 1);     // left
-    if (position % 10 < 9) moves.push(position + 1);     // right
-    if (position >= 10) moves.push(position - 10);       // up
-    if (position < 90) moves.push(position + 10);        // down
-    return moves;
-  }
+
+  const index = lobby.players.indexOf(name);
+  return index === 0 ? "Player1" : "Player2"; // ✅ MUST return Player2
+}
+
+function getOpponent(currentPlayerName) {
+  return lobby.players.find(p => p !== currentPlayerName);
+}

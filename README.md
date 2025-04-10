@@ -24,10 +24,10 @@ I'm choosing this project because I’ve always liked videogames, and I’m exci
 
 ###  April 05 (40%)
 
-- [ ] A user can move their character on the grid
-- [ ] A user can view available moves
-- [ ] A user can see basic turn-based structure: “Player 1’s turn” / “Player 2’s turn”
-- [ ] A user can end their turn and trigger the opponent’s turn
+- [x] A user can move their character on the grid
+- [x] A user can view available moves
+- [x] A user can see basic turn-based structure: “Player 1’s turn” / “Player 2’s turn”
+- [x] A user can end their turn and trigger the opponent’s turn
 
 ###  April 09 (50%)
 

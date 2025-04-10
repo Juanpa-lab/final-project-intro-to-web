@@ -1,40 +1,56 @@
 let playerName = "";
+let playerDisplayName = "";
+let currentPlayer = "";
+let lastVersion = 0;
 
 function createLobbyClicked() {
-  playerName = document.getElementById("playerName").value.trim() || "Player1";
-  const code = document.getElementById("lobbyCode").value.trim();
-  if (!/^\d+$/.test(code)) {
-    alert("Lobby code must be numbers only!");
-    return;
-  }
-  createLobby(playerName, code);
-  showGame();
+    playerDisplayName = document.getElementById("playerName").value.trim() || "Player";
+    const code = document.getElementById("lobbyCode").value.trim();
+
+    if (!/^\d+$/.test(code)) {
+        alert("Lobby code must be numbers only!");
+        return;
+    }
+
+    // Create lobby and assign playerName as "Player1"
+    playerName = createLobby(playerDisplayName, code);
+    showGame();
 }
 
 function joinLobbyClicked() {
-  playerName = document.getElementById("playerName").value.trim() || "Player2";
-  const code = document.getElementById("lobbyCode").value.trim();
-  if (!/^\d+$/.test(code)) {
-    alert("Lobby code must be numbers only!");
-    return;
-  }
-  joinLobby(playerName, code);
-  showGame();
+    playerDisplayName = document.getElementById("playerName").value.trim() || "Player";
+    const code = document.getElementById("lobbyCode").value.trim();
+
+    if (!/^\d+$/.test(code)) {
+        alert("Lobby code must be numbers only!");
+        return;
+    }
+
+    // Join lobby and assign playerName as "Player1" or "Player2"
+    playerName = joinLobby(playerDisplayName, code);
+    showGame();
 }
 
 function showGame() {
-    const opponent = getOpponent(playerName);
+    loadLobbyFromStorage();
+    currentPlayer = lobby.currentPlayer;
+    lastVersion = lobby.version;
+
     showGameUI();
-    updatePlayerDisplay(playerName, opponent);
+    const opponent = getOpponent(playerName);
+    updatePlayerDisplay(playerDisplayName, opponent);
     drawGrid();
-  }
+    updateTurnText();
 
-function movePlayer(playerNum, newPosition) {
-  gameState.positions[playerNum] = newPosition;
-  drawGrid();
-}
-
-function endTurn() {
-  gameState.currentTurn = gameState.currentTurn === 1 ? 2 : 1;
-  drawGrid();
+    setInterval(() => {
+        loadLobbyFromStorage();
+        if (lobby.version !== lastVersion) {
+            lastVersion = lobby.version;
+            currentPlayer = lobby.currentPlayer;
+            updateTurnText();
+            drawGrid();
+            const opp = getOpponent(playerName);
+            updatePlayerDisplay(playerDisplayName, opp);
+        }
+    }, 1000);
 }
