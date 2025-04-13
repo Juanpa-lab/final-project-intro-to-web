@@ -52,27 +52,24 @@ body {
   }
   
   #grid {
-    display: grid;
-    grid-template-columns: repeat(10, 40px);
-    grid-template-rows: repeat(10, 40px);
-    gap: 2px;
-    justify-content: center;
-    margin: 1rem auto;
+    background-image: url('background/warzone.jpg');
+    background-size: cover;
+    border: none;
+    background-color: none;
   }
   
   #grid div {
-    width: 40px;
-    height: 40px;
-    background-color: #ecf0f1;
-    border: 1px solid #bdc3c7;
-    box-sizing: border-box;
+    background-color: transparent;
+    border: none;
+    position: relative;
   }
   
-  /* Highlighted tiles for valid moves or attacks */
   .highlight {
-    background-color: #ffeaa7 !important;
+    background-color: rgba(255, 255, 0, 0.3);
+    outline: 2px solid yellow;
     cursor: pointer;
   }
+  
   
   /* Flash when attacked */
   .flash-hit {

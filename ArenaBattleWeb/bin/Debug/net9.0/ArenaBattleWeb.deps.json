@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ArenaBattleWeb/1.0.0": {
+        "runtime": {
+          "ArenaBattleWeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArenaBattleWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

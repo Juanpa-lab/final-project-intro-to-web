@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\game.js",
+      "PackagePath": "staticwebassets\\game.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\service.js",
+      "PackagePath": "staticwebassets\\service.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\soldiers\\soldier1.png",
+      "PackagePath": "staticwebassets\\soldiers\\soldier1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\soldiers\\soldier2.png",
+      "PackagePath": "staticwebassets\\soldiers\\soldier2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\ui.js",
+      "PackagePath": "staticwebassets\\ui.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ArenaBattleWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ArenaBattleWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ArenaBattleWeb.props",
+      "PackagePath": "build\\ArenaBattleWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ArenaBattleWeb.props",
+      "PackagePath": "buildMultiTargeting\\ArenaBattleWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ArenaBattleWeb.props",
+      "PackagePath": "buildTransitive\\ArenaBattleWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

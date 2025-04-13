@@ -54,11 +54,11 @@ function joinLobby(name, code) {
           saveLobbyToStorage();
       }
   } else {
-      return createLobby(name, code); // this returns "Player1"
+      return createLobby(name, code);
   }
 
   const index = lobby.players.indexOf(name);
-  return index === 0 ? "Player1" : "Player2"; // ✅ MUST return Player2
+  return index === 0 ? "Player1" : "Player2"; 
 }
 
 function getOpponent(currentPlayerName) {

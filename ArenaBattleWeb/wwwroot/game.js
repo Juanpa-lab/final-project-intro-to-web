@@ -12,7 +12,6 @@ function createLobbyClicked() {
         return;
     }
 
-    // Create lobby and assign playerName as "Player1"
     playerName = createLobby(playerDisplayName, code);
     showGame();
 }
@@ -26,7 +25,6 @@ function joinLobbyClicked() {
         return;
     }
 
-    // Join lobby and assign playerName as "Player1" or "Player2"
     playerName = joinLobby(playerDisplayName, code);
     showGame();
 }
