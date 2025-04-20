@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArenaBattleWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea22fe85f377e315f738b6abfba98eff8fb4b0dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bfb29a4370c0e2cf60764863884039e19ff7202")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArenaBattleWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArenaBattleWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

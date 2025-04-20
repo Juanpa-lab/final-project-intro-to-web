@@ -14,8 +14,6 @@ C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\Aren
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\ArenaBattleWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\ArenaBattleWeb.sourcelink.json
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\scopedcss\bundle\ArenaBattleWeb.styles.css
-C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\kupz4mxrl0-f551wi1hrk.gz
-C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\xuvf43wpgn-0g58zyn0nv.gz
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\3vgvkx0z90-ynflkhwfm4.gz
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\staticwebassets.development.json
@@ -31,5 +29,7 @@ C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\Aren
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\ArenaBattleWeb.pdb
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\ArenaBattleWeb.genruntimeconfig.cache
 C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\ref\ArenaBattleWeb.dll
-C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\0xqwkxxw30-56f7i115dn.gz
-C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\jofowet9xq-9ma3n3stjc.gz
+C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\xuvf43wpgn-zohgxnfhej.gz
+C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\0xqwkxxw30-kjn8e8nvhm.gz
+C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\jofowet9xq-udq4bn06k7.gz
+C:\Users\Dell\Documents\intro-to-web-development\final-project-intro-to-web\ArenaBattleWeb\obj\Debug\net9.0\compressed\kupz4mxrl0-gvluqnegqp.gz
