@@ -1,147 +1,164 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
-  }
-  
-  header {
-    background-color: #2c3e50;
-    color: white;
-    padding: 1rem;
-    text-align: center;
-  }
-  
-  main {
-    padding: 2rem;
-    max-width: 800px;
-    margin: auto;
-    text-align: center;
-  }
-  
-  input {
-    padding: 0.5rem;
-    margin: 0.5rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  button {
-    padding: 0.5rem 1rem;
-    margin: 0.5rem;
-    background-color: #3498db;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    font-weight: bold;
-    cursor: pointer;
-  }
-  
-  button:disabled {
-    background-color: #7f8c8d;
-    cursor: not-allowed;
-  }
-  
-  button:hover:not(:disabled) {
-    background-color: #2980b9;
-  }
-  
-  section {
-    margin-bottom: 2rem;
-  }
-  
-  #grid {
-    display: grid;
-    grid-template-columns: repeat(10, 40px);
-    grid-template-rows: repeat(10, 40px);
-    gap: 2px;
-    margin: 1rem auto;
-    background-color: #ecf0f1;
-    border: 2px solid #444;
-    width: fit-content;
-  }
-  
-  
-  #grid div {
-    width: 40px;
-    height: 40px;
-    background-color: #ecf0f1;
-    border: 1px solid #bdc3c7;
-    position: relative;
-    overflow: hidden;
-  }
-  
-  
-  
-  .highlight {
-    background-color: rgba(255, 255, 0, 0.3);
-    outline: 2px solid yellow;
-    cursor: pointer;
-  }
-  
-  
-  /* Flash when attacked */
-  .flash-hit {
-    animation: flash 0.5s ease-in-out;
-  }
-  
-  @keyframes flash {
-    0% {
-      background-color: yellow;
-    }
-    100% {
-      background-color: inherit;
-    }
-  }
-  
-  /* Glowing defense effect */
-  .defense-glow {
-    box-shadow: 0 0 10px 3px lightblue;
-    animation: glow 1s infinite alternate;
-  }
-  
-  @keyframes glow {
-    from {
-      box-shadow: 0 0 10px 3px lightblue;
-    }
-    to {
-      box-shadow: 0 0 20px 5px deepskyblue;
-    }
-  }
-  
-  .hidden {
-    display: none;
-  }
+:root {
+  --background: #f0f2f5;
+  --accent: #3498db;
+  --danger: #e74c3c;
+  --safe: #2ecc71;
+  --border: #bdc3c7;
+  --text: #2c3e50;
+  --highlight: #f1c40f;
+}
 
-  .unit {
-    position: relative;
-    width: 100%;
-    height: 100%;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background);
+  color: var(--text);
+}
+
+header {
+  background-color: var(--accent);
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 0;
+  margin-top: 0.5rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: var(--highlight);
+}
+
+aside {
+  background-color: #ecf0f1;
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+main {
+  padding: 1rem;
+}
+
+#lobby, #playerInfo, #arena, #turnBox {
+  margin-bottom: 2rem;
+}
+
+form {
+  margin: 1rem 0;
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}
+
+form input, form select, form button {
+  margin-top: 0.5rem;
+  display: block;
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid var(--border);
+  margin-bottom: 1rem;
+}
+
+form button {
+  background-color: var(--accent);
+  color: white;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+form button:hover {
+  background-color: var(--highlight);
+  color: black;
+}
+
+#grid {
+  display: grid;
+  grid-template-columns: repeat(10, 40px);
+  grid-template-rows: repeat(10, 40px);
+  gap: 2px;
+  margin: 1rem auto;
+  background-color: var(--background);
+  border: 2px solid var(--border);
+  width: fit-content;
+}
+
+#grid div {
+  width: 40px;
+  height: 40px;
+  background-color: #ffffff;
+  border: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
+}
+
+.highlight {
+  background-color: rgba(241, 196, 15, 0.4);
+  outline: 2px solid var(--highlight);
+  cursor: pointer;
+}
+
+.unit {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.unit img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.health-bar {
+  width: 50px;
+  height: 6px;
+  background-color: #ccc;
+  margin-top: 5px;
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+}
+
+.health {
+  height: 100%;
+  background-color: green;
+  transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+footer {
+  background-color: var(--accent);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  #grid {
+    grid-template-columns: repeat(5, 40px);
+    grid-template-rows: repeat(20, 40px);
   }
-  
-  .unit img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    display: block;
-  }
-  
-  
-  .health-bar {
-    position: absolute;
-    bottom: 2px;
-    left: 2px;
-    width: 90%;
-    height: 6px;
-    background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 3px;
-  }
-  
-  .health {
-    height: 100%;
-    background-color: #00cc00;
-    border-radius: 3px;
-  }
-  
-  
+}

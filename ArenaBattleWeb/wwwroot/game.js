@@ -12,9 +12,11 @@ function createLobbyClicked() {
     return;
   }
 
-  playerName = createLobby(playerDisplayName, code);
+  playerRole = createLobby(playerDisplayName, code);
+  playerName = playerDisplayName;
   showGame();
 }
+
 
 function joinLobbyClicked() {
   playerDisplayName = document.getElementById("playerName").value.trim() || "Player";
@@ -25,9 +27,11 @@ function joinLobbyClicked() {
     return;
   }
 
-  playerName = joinLobby(playerDisplayName, code); // ✅ FIXED HERE
+  playerRole = joinLobby(playerDisplayName, code);
+  playerName = playerDisplayName;
   showGame();
 }
+
 
 function showGame() {
   loadLobbyFromStorage();
@@ -40,24 +44,17 @@ function showGame() {
   drawGrid();
   updateTurnText();
 
-  let playerWasConnected = false;
-
   setInterval(() => {
+    const oldVersion = lastVersion;
     loadLobbyFromStorage();
-    currentPlayer = lobby.currentPlayer;
 
-    if (playerName === currentPlayer) {
+    if (lobby.version !== oldVersion) {
+      currentPlayer = lobby.currentPlayer;
+      lastVersion = lobby.version;
+      updatePlayerDisplay(playerDisplayName, getOpponent(playerName));
       drawGrid();
       updateTurnText();
     }
-
-    if (lobby.players.length === 2) {
-      playerWasConnected = true;
-    }
-
-    if (playerWasConnected && lobby.players.length < 2) {
-      alert("⚠️ Your opponent has disconnected or left the game.");
-      playerWasConnected = false;
-    }
-  }, 1000);
+  }, 500);
 }
+

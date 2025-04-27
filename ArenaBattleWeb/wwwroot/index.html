@@ -1,54 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>2D Arena Game</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <title>Arena Battle Game</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <header>
-    <h1>2D Arena Game</h1>
-    <p>Create or join a lobby and take turns moving, attacking, or defending!</p>
-  </header>
+<header>
+  <nav>
+    <h1>Arena Battle</h1>
+    <ul>
+      <li><a href="#lobby">Lobby</a></li>
+      <li><a href="#arena">Arena</a></li>
+      <li><a href="#history">History</a></li>
+    </ul>
+  </nav>
+</header>
 
-  <main>
-    <!-- Lobby Join/Create -->
-    <section id="lobby">
-      <h2>Create or Join Lobby</h2>
-      <input id="playerName" placeholder="Your name" />
-      <input
-        id="lobbyCode"
-        placeholder="Lobby code"
-        oninput="this.value = this.value.replace(/[^0-9]/g, '')"
-      />
+<aside>
+  <h2>Tips</h2>
+  <ul>
+    <li>Use W, A, S, D keys to move your soldier.</li>
+    <li>Click on adjacent enemy to attack.</li>
+    <li>Drag & Drop your soldier to move more easily.</li>
+    <li>Defend to reduce incoming damage!</li>
+  </ul>
+</aside>
+
+<main>
+
+  <section id="lobby">
+    <h2>Create or Join a Lobby</h2>
+
+    <form id="lobbyForm" onsubmit="return false;">
+      <label>Name:
+        <input type="text" id="playerName" required>
+      </label><br><br>
+
+      <label>Lobby Code:
+        <input type="number" id="lobbyCode" required>
+      </label><br><br>
+
+      <label>Soldier Color:
+        <select id="soldierColor">
+          <option value="blue">Blue</option>
+          <option value="red">Red</option>
+          <option value="green">Green</option>
+        </select>
+      </label><br><br>
+
       <button onclick="createLobbyClicked()">Create Lobby</button>
       <button onclick="joinLobbyClicked()">Join Lobby</button>
-      <button onclick="showMatchHistory()">📜 View Match History</button>
-    </section>
+      <button type="reset">Reset Form</button>
+    </form>
 
-    <!-- Player Info -->
-    <section id="playerInfo" class="hidden">
-      <h2>Player Info</h2>
-      <p><strong>You:</strong> <span id="playerDisplay"></span></p>
-      <p><strong>Opponent:</strong> <span id="opponentDisplay">Waiting...</span></p>
-    </section>
+    <button onclick="showMatchHistory()">📜 View Match History</button>
 
-    <!-- Arena Grid -->
-    <section id="arena" class="hidden">
-      <h2>2D Arena</h2>
-      <div id="grid"></div>
-    </section>
+    <figure>
+      <img src="soldiers/soldier1.png" alt="Soldier Example" width="100">
+      <figcaption>Example of your soldier in battle.</figcaption>
+    </figure>
+  </section>
 
-    <section id="turnBox" class="hidden">
-      <h2 id="turnDisplay">Whose Turn?</h2>
-    </section>
-  </main>
+  <section id="playerInfo" class="hidden">
+    <h2>Player Information</h2>
+    <p><strong>You:</strong> <span id="playerDisplay"></span></p>
+    <p><strong>Opponent:</strong> <span id="opponentDisplay">Waiting...</span></p>
+  </section>
 
-  <!-- JS Scripts -->
-  <script src="service.js"></script>
-  <script src="ui.js"></script>
-  <script src="game.js"></script>
+  <article id="arena" class="hidden">
+    <h2>Battle Arena</h2>
+    <div id="grid"></div>
+  </article>
+
+  <section id="turnBox" class="hidden">
+    <h2 id="turnDisplay">Turn</h2>
+    <div id="yourTurnBanner"></div>
+  </section>
+
+</main>
+
+<footer>
+  <p>Created by Juan</p>
+</footer>
+
+<script src="service.js"></script>
+<script src="ui.js"></script>
+<script src="game.js"></script>
 
 </body>
 </html>

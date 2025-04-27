@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fUp7sWUT/AxrZftTl+S8I5WIUYy723ZebrIs7XAQl4w=",
+  "Hash": "Z3CE3PG93i5r0U2mbd82cA8Zzjd6+JUcDp+10Obh8Ak=",
   "Source": "ArenaBattleWeb",
   "BasePath": "_content/ArenaBattleWeb",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-kjn8e8nvhm.gz",
+      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-in4zo5r4tc.gz",
       "SourceId": "ArenaBattleWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArenaBattleWeb",
-      "RelativePath": "style#[.{fingerprint=kjn8e8nvhm}]?.css.gz",
+      "RelativePath": "style#[.{fingerprint=in4zo5r4tc}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,19 +31,19 @@
       "RelatedAsset": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3xy2oujuyb",
-      "Integrity": "Rx1wtayyi7VBPC+qOe3TvHkuKdKcGg1ahBTssWW/jw0=",
+      "Fingerprint": "v33zcnyqcp",
+      "Integrity": "hR38agnhnTL1uxbXle5a24Ih3jzup+NqZZmiFskyTMI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-ynflkhwfm4.gz",
+      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-mjpphni4st.gz",
       "SourceId": "ArenaBattleWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArenaBattleWeb",
-      "RelativePath": "service#[.{fingerprint=ynflkhwfm4}]?.js.gz",
+      "RelativePath": "service#[.{fingerprint=mjpphni4st}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,19 +52,19 @@
       "RelatedAsset": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\service.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m2ta70eox1",
-      "Integrity": "UgdnPyAvQzX+6/HLSjeDvNqmfsQ2j9mAZGjG5Wo/7GE=",
+      "Fingerprint": "pff93idy6v",
+      "Integrity": "m45yjLLQyk6aVrOHWYiyg/983v7yIeIPCgp26wKG9jc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\service.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-udq4bn06k7.gz",
+      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-snzm095vrj.gz",
       "SourceId": "ArenaBattleWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArenaBattleWeb",
-      "RelativePath": "ui#[.{fingerprint=udq4bn06k7}]?.js.gz",
+      "RelativePath": "ui#[.{fingerprint=snzm095vrj}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,19 +73,19 @@
       "RelatedAsset": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\ui.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "etosfpa3wl",
-      "Integrity": "XsCLVFy1+Hy0todTHnt6Ki6x/MVqjEapoUW0GIAP+PY=",
+      "Fingerprint": "drqzgnb6jf",
+      "Integrity": "x5H94DDMD6+QYjWwam2e549n0hBR8u7hc/jYKIoIkSU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\ui.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-gvluqnegqp.gz",
+      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-u1o6w8vagc.gz",
       "SourceId": "ArenaBattleWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArenaBattleWeb",
-      "RelativePath": "game#[.{fingerprint=gvluqnegqp}]?.js.gz",
+      "RelativePath": "game#[.{fingerprint=u1o6w8vagc}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,19 +94,19 @@
       "RelatedAsset": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\game.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7d9ur4l49n",
-      "Integrity": "FZpBz6wMuebfFI3+aqTX660CzvULP2wDyIami+jiJsY=",
+      "Fingerprint": "dpru7zd4dx",
+      "Integrity": "wYqbVq9lFOk09lRDGElMjCX2U4TeUqgdrlDVwPSAyBk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\game.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-zohgxnfhej.gz",
+      "Identity": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-qad5rhxzjf.gz",
       "SourceId": "ArenaBattleWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ArenaBattleWeb",
-      "RelativePath": "index#[.{fingerprint=zohgxnfhej}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=qad5rhxzjf}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5x5ph7dwlz",
-      "Integrity": "Oef8zKQ0VJ009nLC/b2QhlC5oaA9dbuLT7HqXaDcmPM=",
+      "Fingerprint": "mlgr3yk2sk",
+      "Integrity": "yvcfR82zkQZDax9YKxW15sDQ3KnDCvQJTz3BLtO4CSk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\index.html"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gvluqnegqp",
-      "Integrity": "xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg=",
+      "Fingerprint": "u1o6w8vagc",
+      "Integrity": "Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\game.js"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zohgxnfhej",
-      "Integrity": "k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4=",
+      "Fingerprint": "qad5rhxzjf",
+      "Integrity": "koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ynflkhwfm4",
-      "Integrity": "jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg=",
+      "Fingerprint": "mjpphni4st",
+      "Integrity": "biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\service.js"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kjn8e8nvhm",
-      "Integrity": "MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE=",
+      "Fingerprint": "in4zo5r4tc",
+      "Integrity": "Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\style.css"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "udq4bn06k7",
-      "Integrity": "bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA=",
+      "Fingerprint": "snzm095vrj",
+      "Integrity": "CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ui.js"
@@ -271,13 +271,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "game.gvluqnegqp.js",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-gvluqnegqp.gz",
+      "Route": "game.js",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-u1o6w8vagc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001801801802"
+          "Quality": "0.002159827214"
         }
       ],
       "ResponseHeaders": [
@@ -287,19 +287,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "554"
+          "Value": "462"
         },
         {
           "Name": "ETag",
-          "Value": "\"FZpBz6wMuebfFI3+aqTX660CzvULP2wDyIami+jiJsY=\""
+          "Value": "\"wYqbVq9lFOk09lRDGElMjCX2U4TeUqgdrlDVwPSAyBk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:36:05 GMT"
+          "Value": "Sun, 27 Apr 2025 05:56:40 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -315,26 +315,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg=\""
+          "Value": "W/\"Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "gvluqnegqp"
-        },
-        {
-          "Name": "label",
-          "Value": "game.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg="
+          "Value": "sha256-Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA="
         }
       ]
     },
     {
-      "Route": "game.gvluqnegqp.js",
+      "Route": "game.js",
       "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\game.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -344,7 +336,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1612"
+          "Value": "1521"
         },
         {
           "Name": "Content-Type",
@@ -352,11 +344,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg=\""
+          "Value": "\"Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:36:05 GMT"
+          "Value": "Sun, 27 Apr 2025 05:56:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA="
+        }
+      ]
+    },
+    {
+      "Route": "game.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-u1o6w8vagc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYqbVq9lFOk09lRDGElMjCX2U4TeUqgdrlDVwPSAyBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 05:56:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYqbVq9lFOk09lRDGElMjCX2U4TeUqgdrlDVwPSAyBk="
+        }
+      ]
+    },
+    {
+      "Route": "game.u1o6w8vagc.js",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-u1o6w8vagc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002159827214"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "462"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYqbVq9lFOk09lRDGElMjCX2U4TeUqgdrlDVwPSAyBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 05:56:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1o6w8vagc"
+        },
+        {
+          "Name": "label",
+          "Value": "game.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA="
+        }
+      ]
+    },
+    {
+      "Route": "game.u1o6w8vagc.js",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\game.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 05:56:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -366,7 +503,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gvluqnegqp"
+          "Value": "u1o6w8vagc"
         },
         {
           "Name": "label",
@@ -374,13 +511,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg="
+          "Value": "sha256-Qm+/w9qmmjpTSe1gQx5GWojgkzgUqh4AKN2fMBDLkZA="
         }
       ]
     },
     {
-      "Route": "game.gvluqnegqp.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-gvluqnegqp.gz",
+      "Route": "game.u1o6w8vagc.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-u1o6w8vagc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -389,7 +526,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "554"
+          "Value": "462"
         },
         {
           "Name": "Content-Type",
@@ -397,11 +534,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FZpBz6wMuebfFI3+aqTX660CzvULP2wDyIami+jiJsY=\""
+          "Value": "\"wYqbVq9lFOk09lRDGElMjCX2U4TeUqgdrlDVwPSAyBk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:36:05 GMT"
+          "Value": "Sun, 27 Apr 2025 05:56:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -419,7 +556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gvluqnegqp"
+          "Value": "u1o6w8vagc"
         },
         {
           "Name": "label",
@@ -427,155 +564,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FZpBz6wMuebfFI3+aqTX660CzvULP2wDyIami+jiJsY="
-        }
-      ]
-    },
-    {
-      "Route": "game.js",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-gvluqnegqp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001801801802"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "554"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FZpBz6wMuebfFI3+aqTX660CzvULP2wDyIami+jiJsY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:36:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg="
-        }
-      ]
-    },
-    {
-      "Route": "game.js",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\game.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:36:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xD8WEeqbF8X4exDXtUi/7i2avlpDYK73Dzcl29MYGhg="
-        }
-      ]
-    },
-    {
-      "Route": "game.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\kupz4mxrl0-gvluqnegqp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "554"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FZpBz6wMuebfFI3+aqTX660CzvULP2wDyIami+jiJsY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:36:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FZpBz6wMuebfFI3+aqTX660CzvULP2wDyIami+jiJsY="
+          "Value": "sha256-wYqbVq9lFOk09lRDGElMjCX2U4TeUqgdrlDVwPSAyBk="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-zohgxnfhej.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-qad5rhxzjf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001564945227"
+          "Quality": "0.001048218029"
         }
       ],
       "ResponseHeaders": [
@@ -585,15 +585,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "638"
+          "Value": "953"
         },
         {
           "Name": "ETag",
-          "Value": "\"Oef8zKQ0VJ009nLC/b2QhlC5oaA9dbuLT7HqXaDcmPM=\""
+          "Value": "\"yvcfR82zkQZDax9YKxW15sDQ3KnDCvQJTz3BLtO4CSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 05:54:55 GMT"
+          "Value": "Sun, 27 Apr 2025 05:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -613,13 +613,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4=\""
+          "Value": "W/\"koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4="
+          "Value": "sha256-koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco="
         }
       ]
     },
@@ -634,7 +634,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1518"
+          "Value": "2361"
         },
         {
           "Name": "Content-Type",
@@ -642,11 +642,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4=\""
+          "Value": "\"koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 05:54:55 GMT"
+          "Value": "Sun, 27 Apr 2025 05:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -656,13 +656,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4="
+          "Value": "sha256-koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-zohgxnfhej.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-qad5rhxzjf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -671,7 +671,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "638"
+          "Value": "953"
         },
         {
           "Name": "Content-Type",
@@ -679,11 +679,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Oef8zKQ0VJ009nLC/b2QhlC5oaA9dbuLT7HqXaDcmPM=\""
+          "Value": "\"yvcfR82zkQZDax9YKxW15sDQ3KnDCvQJTz3BLtO4CSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 05:54:55 GMT"
+          "Value": "Sun, 27 Apr 2025 05:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -701,18 +701,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Oef8zKQ0VJ009nLC/b2QhlC5oaA9dbuLT7HqXaDcmPM="
+          "Value": "sha256-yvcfR82zkQZDax9YKxW15sDQ3KnDCvQJTz3BLtO4CSk="
         }
       ]
     },
     {
-      "Route": "index.zohgxnfhej.html",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-zohgxnfhej.gz",
+      "Route": "index.qad5rhxzjf.html",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-qad5rhxzjf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001564945227"
+          "Quality": "0.001048218029"
         }
       ],
       "ResponseHeaders": [
@@ -722,15 +722,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "638"
+          "Value": "953"
         },
         {
           "Name": "ETag",
-          "Value": "\"Oef8zKQ0VJ009nLC/b2QhlC5oaA9dbuLT7HqXaDcmPM=\""
+          "Value": "\"yvcfR82zkQZDax9YKxW15sDQ3KnDCvQJTz3BLtO4CSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 05:54:55 GMT"
+          "Value": "Sun, 27 Apr 2025 05:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -750,13 +750,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4=\""
+          "Value": "W/\"koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zohgxnfhej"
+          "Value": "qad5rhxzjf"
         },
         {
           "Name": "label",
@@ -764,12 +764,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4="
+          "Value": "sha256-koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco="
         }
       ]
     },
     {
-      "Route": "index.zohgxnfhej.html",
+      "Route": "index.qad5rhxzjf.html",
       "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -779,7 +779,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1518"
+          "Value": "2361"
         },
         {
           "Name": "Content-Type",
@@ -787,11 +787,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4=\""
+          "Value": "\"koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 05:54:55 GMT"
+          "Value": "Sun, 27 Apr 2025 05:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -801,7 +801,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zohgxnfhej"
+          "Value": "qad5rhxzjf"
         },
         {
           "Name": "label",
@@ -809,13 +809,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-k2p8bbAyYyYpoSOufrRe8e6RgMTWxoL/hdoE99jyiG4="
+          "Value": "sha256-koGvdoV6Rn9f5yuvQzMjhyzb06xvB0VMEyZm1V1oNco="
         }
       ]
     },
     {
-      "Route": "index.zohgxnfhej.html.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-zohgxnfhej.gz",
+      "Route": "index.qad5rhxzjf.html.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\xuvf43wpgn-qad5rhxzjf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -824,7 +824,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "638"
+          "Value": "953"
         },
         {
           "Name": "Content-Type",
@@ -832,11 +832,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Oef8zKQ0VJ009nLC/b2QhlC5oaA9dbuLT7HqXaDcmPM=\""
+          "Value": "\"yvcfR82zkQZDax9YKxW15sDQ3KnDCvQJTz3BLtO4CSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 05:54:55 GMT"
+          "Value": "Sun, 27 Apr 2025 05:03:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -854,7 +854,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zohgxnfhej"
+          "Value": "qad5rhxzjf"
         },
         {
           "Name": "label",
@@ -862,18 +862,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Oef8zKQ0VJ009nLC/b2QhlC5oaA9dbuLT7HqXaDcmPM="
+          "Value": "sha256-yvcfR82zkQZDax9YKxW15sDQ3KnDCvQJTz3BLtO4CSk="
         }
       ]
     },
     {
       "Route": "service.js",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-ynflkhwfm4.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-mjpphni4st.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001763668430"
+          "Quality": "0.001085776330"
         }
       ],
       "ResponseHeaders": [
@@ -883,15 +883,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "566"
+          "Value": "920"
         },
         {
           "Name": "ETag",
-          "Value": "\"UgdnPyAvQzX+6/HLSjeDvNqmfsQ2j9mAZGjG5Wo/7GE=\""
+          "Value": "\"m45yjLLQyk6aVrOHWYiyg/983v7yIeIPCgp26wKG9jc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 05:24:34 GMT"
+          "Value": "Sun, 27 Apr 2025 05:14:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -911,13 +911,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg=\""
+          "Value": "W/\"biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg="
+          "Value": "sha256-biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU="
         }
       ]
     },
@@ -932,7 +932,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1545"
+          "Value": "2372"
         },
         {
           "Name": "Content-Type",
@@ -940,11 +940,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg=\""
+          "Value": "\"biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 05:24:34 GMT"
+          "Value": "Sun, 27 Apr 2025 05:14:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -954,13 +954,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg="
+          "Value": "sha256-biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU="
         }
       ]
     },
     {
       "Route": "service.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-ynflkhwfm4.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-mjpphni4st.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -969,7 +969,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "566"
+          "Value": "920"
         },
         {
           "Name": "Content-Type",
@@ -977,11 +977,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UgdnPyAvQzX+6/HLSjeDvNqmfsQ2j9mAZGjG5Wo/7GE=\""
+          "Value": "\"m45yjLLQyk6aVrOHWYiyg/983v7yIeIPCgp26wKG9jc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 05:24:34 GMT"
+          "Value": "Sun, 27 Apr 2025 05:14:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -999,18 +999,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UgdnPyAvQzX+6/HLSjeDvNqmfsQ2j9mAZGjG5Wo/7GE="
+          "Value": "sha256-m45yjLLQyk6aVrOHWYiyg/983v7yIeIPCgp26wKG9jc="
         }
       ]
     },
     {
-      "Route": "service.ynflkhwfm4.js",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-ynflkhwfm4.gz",
+      "Route": "service.mjpphni4st.js",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-mjpphni4st.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001763668430"
+          "Quality": "0.001085776330"
         }
       ],
       "ResponseHeaders": [
@@ -1020,15 +1020,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "566"
+          "Value": "920"
         },
         {
           "Name": "ETag",
-          "Value": "\"UgdnPyAvQzX+6/HLSjeDvNqmfsQ2j9mAZGjG5Wo/7GE=\""
+          "Value": "\"m45yjLLQyk6aVrOHWYiyg/983v7yIeIPCgp26wKG9jc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 05:24:34 GMT"
+          "Value": "Sun, 27 Apr 2025 05:14:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1048,13 +1048,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg=\""
+          "Value": "W/\"biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ynflkhwfm4"
+          "Value": "mjpphni4st"
         },
         {
           "Name": "label",
@@ -1062,12 +1062,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg="
+          "Value": "sha256-biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU="
         }
       ]
     },
     {
-      "Route": "service.ynflkhwfm4.js",
+      "Route": "service.mjpphni4st.js",
       "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\service.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1077,7 +1077,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1545"
+          "Value": "2372"
         },
         {
           "Name": "Content-Type",
@@ -1085,11 +1085,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg=\""
+          "Value": "\"biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 05:24:34 GMT"
+          "Value": "Sun, 27 Apr 2025 05:14:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1099,7 +1099,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ynflkhwfm4"
+          "Value": "mjpphni4st"
         },
         {
           "Name": "label",
@@ -1107,13 +1107,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jnrC+FvhkSQBAWXqHt/ZXQoEZaicegb7MZBJJQo5UTg="
+          "Value": "sha256-biUdIYaKuJqH/KBkuqFHZ55SWZs/8CrbxwRf+Tn5sVU="
         }
       ]
     },
     {
-      "Route": "service.ynflkhwfm4.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-ynflkhwfm4.gz",
+      "Route": "service.mjpphni4st.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\3vgvkx0z90-mjpphni4st.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1122,7 +1122,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "566"
+          "Value": "920"
         },
         {
           "Name": "Content-Type",
@@ -1130,11 +1130,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UgdnPyAvQzX+6/HLSjeDvNqmfsQ2j9mAZGjG5Wo/7GE=\""
+          "Value": "\"m45yjLLQyk6aVrOHWYiyg/983v7yIeIPCgp26wKG9jc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 05:24:34 GMT"
+          "Value": "Sun, 27 Apr 2025 05:14:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1152,7 +1152,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ynflkhwfm4"
+          "Value": "mjpphni4st"
         },
         {
           "Name": "label",
@@ -1160,7 +1160,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UgdnPyAvQzX+6/HLSjeDvNqmfsQ2j9mAZGjG5Wo/7GE="
+          "Value": "sha256-m45yjLLQyk6aVrOHWYiyg/983v7yIeIPCgp26wKG9jc="
         }
       ]
     },
@@ -1330,12 +1330,12 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-kjn8e8nvhm.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-in4zo5r4tc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001193317422"
+          "Quality": "0.001111111111"
         }
       ],
       "ResponseHeaders": [
@@ -1345,15 +1345,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "837"
+          "Value": "899"
         },
         {
           "Name": "ETag",
-          "Value": "\"Rx1wtayyi7VBPC+qOe3TvHkuKdKcGg1ahBTssWW/jw0=\""
+          "Value": "\"hR38agnhnTL1uxbXle5a24Ih3jzup+NqZZmiFskyTMI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:27:44 GMT"
+          "Value": "Sun, 27 Apr 2025 06:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1373,13 +1373,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE=\""
+          "Value": "W/\"Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE="
+          "Value": "sha256-Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8="
         }
       ]
     },
@@ -1394,7 +1394,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2515"
+          "Value": "2800"
         },
         {
           "Name": "Content-Type",
@@ -1402,11 +1402,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE=\""
+          "Value": "\"Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:27:44 GMT"
+          "Value": "Sun, 27 Apr 2025 06:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1416,13 +1416,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE="
+          "Value": "sha256-Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8="
         }
       ]
     },
     {
       "Route": "style.css.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-kjn8e8nvhm.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-in4zo5r4tc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1431,7 +1431,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "837"
+          "Value": "899"
         },
         {
           "Name": "Content-Type",
@@ -1439,11 +1439,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Rx1wtayyi7VBPC+qOe3TvHkuKdKcGg1ahBTssWW/jw0=\""
+          "Value": "\"hR38agnhnTL1uxbXle5a24Ih3jzup+NqZZmiFskyTMI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:27:44 GMT"
+          "Value": "Sun, 27 Apr 2025 06:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1461,18 +1461,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Rx1wtayyi7VBPC+qOe3TvHkuKdKcGg1ahBTssWW/jw0="
+          "Value": "sha256-hR38agnhnTL1uxbXle5a24Ih3jzup+NqZZmiFskyTMI="
         }
       ]
     },
     {
-      "Route": "style.kjn8e8nvhm.css",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-kjn8e8nvhm.gz",
+      "Route": "style.in4zo5r4tc.css",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-in4zo5r4tc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001193317422"
+          "Quality": "0.001111111111"
         }
       ],
       "ResponseHeaders": [
@@ -1482,15 +1482,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "837"
+          "Value": "899"
         },
         {
           "Name": "ETag",
-          "Value": "\"Rx1wtayyi7VBPC+qOe3TvHkuKdKcGg1ahBTssWW/jw0=\""
+          "Value": "\"hR38agnhnTL1uxbXle5a24Ih3jzup+NqZZmiFskyTMI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:27:44 GMT"
+          "Value": "Sun, 27 Apr 2025 06:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1510,13 +1510,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE=\""
+          "Value": "W/\"Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kjn8e8nvhm"
+          "Value": "in4zo5r4tc"
         },
         {
           "Name": "label",
@@ -1524,12 +1524,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE="
+          "Value": "sha256-Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8="
         }
       ]
     },
     {
-      "Route": "style.kjn8e8nvhm.css",
+      "Route": "style.in4zo5r4tc.css",
       "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1539,7 +1539,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2515"
+          "Value": "2800"
         },
         {
           "Name": "Content-Type",
@@ -1547,11 +1547,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE=\""
+          "Value": "\"Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:27:44 GMT"
+          "Value": "Sun, 27 Apr 2025 06:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1561,7 +1561,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kjn8e8nvhm"
+          "Value": "in4zo5r4tc"
         },
         {
           "Name": "label",
@@ -1569,13 +1569,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MEe/tEGIGk4vjL2IKV7pD16iKuBthfbNmG4ueOUnvJE="
+          "Value": "sha256-Tv4hTw2lFldkWdqikDRhfr3hBzP+gDC+OqcH8TWh4I8="
         }
       ]
     },
     {
-      "Route": "style.kjn8e8nvhm.css.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-kjn8e8nvhm.gz",
+      "Route": "style.in4zo5r4tc.css.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\0xqwkxxw30-in4zo5r4tc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1584,7 +1584,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "837"
+          "Value": "899"
         },
         {
           "Name": "Content-Type",
@@ -1592,11 +1592,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Rx1wtayyi7VBPC+qOe3TvHkuKdKcGg1ahBTssWW/jw0=\""
+          "Value": "\"hR38agnhnTL1uxbXle5a24Ih3jzup+NqZZmiFskyTMI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:27:44 GMT"
+          "Value": "Sun, 27 Apr 2025 06:32:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1614,7 +1614,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kjn8e8nvhm"
+          "Value": "in4zo5r4tc"
         },
         {
           "Name": "label",
@@ -1622,18 +1622,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Rx1wtayyi7VBPC+qOe3TvHkuKdKcGg1ahBTssWW/jw0="
+          "Value": "sha256-hR38agnhnTL1uxbXle5a24Ih3jzup+NqZZmiFskyTMI="
         }
       ]
     },
     {
       "Route": "ui.js",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-udq4bn06k7.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-snzm095vrj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000403714170"
+          "Quality": "0.000379794911"
         }
       ],
       "ResponseHeaders": [
@@ -1643,15 +1643,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2476"
+          "Value": "2632"
         },
         {
           "Name": "ETag",
-          "Value": "\"XsCLVFy1+Hy0todTHnt6Ki6x/MVqjEapoUW0GIAP+PY=\""
+          "Value": "\"x5H94DDMD6+QYjWwam2e549n0hBR8u7hc/jYKIoIkSU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:29:52 GMT"
+          "Value": "Sun, 27 Apr 2025 06:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1671,13 +1671,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA=\""
+          "Value": "W/\"CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA="
+          "Value": "sha256-CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E="
         }
       ]
     },
@@ -1692,7 +1692,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9464"
+          "Value": "10446"
         },
         {
           "Name": "Content-Type",
@@ -1700,11 +1700,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA=\""
+          "Value": "\"CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:29:52 GMT"
+          "Value": "Sun, 27 Apr 2025 06:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1714,13 +1714,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA="
+          "Value": "sha256-CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E="
         }
       ]
     },
     {
       "Route": "ui.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-udq4bn06k7.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-snzm095vrj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1729,7 +1729,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2476"
+          "Value": "2632"
         },
         {
           "Name": "Content-Type",
@@ -1737,11 +1737,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XsCLVFy1+Hy0todTHnt6Ki6x/MVqjEapoUW0GIAP+PY=\""
+          "Value": "\"x5H94DDMD6+QYjWwam2e549n0hBR8u7hc/jYKIoIkSU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:29:52 GMT"
+          "Value": "Sun, 27 Apr 2025 06:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1759,18 +1759,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XsCLVFy1+Hy0todTHnt6Ki6x/MVqjEapoUW0GIAP+PY="
+          "Value": "sha256-x5H94DDMD6+QYjWwam2e549n0hBR8u7hc/jYKIoIkSU="
         }
       ]
     },
     {
-      "Route": "ui.udq4bn06k7.js",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-udq4bn06k7.gz",
+      "Route": "ui.snzm095vrj.js",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-snzm095vrj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000403714170"
+          "Quality": "0.000379794911"
         }
       ],
       "ResponseHeaders": [
@@ -1780,15 +1780,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2476"
+          "Value": "2632"
         },
         {
           "Name": "ETag",
-          "Value": "\"XsCLVFy1+Hy0todTHnt6Ki6x/MVqjEapoUW0GIAP+PY=\""
+          "Value": "\"x5H94DDMD6+QYjWwam2e549n0hBR8u7hc/jYKIoIkSU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:29:52 GMT"
+          "Value": "Sun, 27 Apr 2025 06:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1808,13 +1808,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA=\""
+          "Value": "W/\"CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udq4bn06k7"
+          "Value": "snzm095vrj"
         },
         {
           "Name": "label",
@@ -1822,12 +1822,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA="
+          "Value": "sha256-CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E="
         }
       ]
     },
     {
-      "Route": "ui.udq4bn06k7.js",
+      "Route": "ui.snzm095vrj.js",
       "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\wwwroot\\ui.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1837,7 +1837,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9464"
+          "Value": "10446"
         },
         {
           "Name": "Content-Type",
@@ -1845,11 +1845,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA=\""
+          "Value": "\"CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:29:52 GMT"
+          "Value": "Sun, 27 Apr 2025 06:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1859,7 +1859,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udq4bn06k7"
+          "Value": "snzm095vrj"
         },
         {
           "Name": "label",
@@ -1867,13 +1867,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bnqoAPmPCeqaz8AYRom0yN8TB3/ABdBZOw9b/H49mkA="
+          "Value": "sha256-CDL8Id5fu9dPLkyY5wUvOk4yC8+AHYOBkYXe8JVSe1E="
         }
       ]
     },
     {
-      "Route": "ui.udq4bn06k7.js.gz",
-      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-udq4bn06k7.gz",
+      "Route": "ui.snzm095vrj.js.gz",
+      "AssetFile": "C:\\Users\\Dell\\Documents\\intro-to-web-development\\final-project-intro-to-web\\ArenaBattleWeb\\obj\\Debug\\net9.0\\compressed\\jofowet9xq-snzm095vrj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1882,7 +1882,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2476"
+          "Value": "2632"
         },
         {
           "Name": "Content-Type",
@@ -1890,11 +1890,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XsCLVFy1+Hy0todTHnt6Ki6x/MVqjEapoUW0GIAP+PY=\""
+          "Value": "\"x5H94DDMD6+QYjWwam2e549n0hBR8u7hc/jYKIoIkSU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 06:29:52 GMT"
+          "Value": "Sun, 27 Apr 2025 06:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1912,7 +1912,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udq4bn06k7"
+          "Value": "snzm095vrj"
         },
         {
           "Name": "label",
@@ -1920,7 +1920,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XsCLVFy1+Hy0todTHnt6Ki6x/MVqjEapoUW0GIAP+PY="
+          "Value": "sha256-x5H94DDMD6+QYjWwam2e549n0hBR8u7hc/jYKIoIkSU="
         }
       ]
     }
